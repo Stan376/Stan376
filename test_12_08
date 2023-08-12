@@ -3,3 +3,4 @@ def sum(list):
         return 0
     return list[0] + sum(list[1:])
 print(sum([2, 3, 4]))
+# it worked, I`m just looking through functionality of a github. 
