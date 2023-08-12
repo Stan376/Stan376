@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stan376
-- 👀 I’m interested in learning to code and build projects. Particularly backe-end for the moment.
+- 👀 I’m interested in learning to code and build projects. Particularly back-end for the moment.
 - 🌱 I’m currently learning Python and Algorithms.
 - 💞️ I’m looking to collaborate on just about everything. I`m new here, so I just window-shoping at the moment.
 - 📫 How to reach me. Udalykhstan@gmail.com
